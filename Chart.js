@@ -73,7 +73,7 @@
 			scaleSteps: null,
 			// Number - The value jump in the hard coded scale
 			scaleStepWidth: null,
-			// Number - The scale starting value
+		fggf	// Number - The scale starting value
 			scaleStartValue: null,
 
 			// String - Colour of the scale line
